@@ -1,4 +1,4 @@
-# import pandas
+# To find the maximum sum of all subarrays of size K
 a=[100,200,300,400]
 n=len(a)
 k=2
