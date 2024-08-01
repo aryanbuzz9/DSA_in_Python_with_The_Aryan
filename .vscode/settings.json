@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.tabs.enableAnimation": true,
+    "terminal.integrated.fontSize": 13,
+    "workbench.panel.defaultLocation": "right",
+    "python.analysis.typeCheckingMode": "off"
+}

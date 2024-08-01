@@ -8,7 +8,7 @@ def sub_array(a,k):
         current_sum=window_sum-a[i]+a[k+i]
         window_sum=max(window_sum,current_sum)
     return window_sum
-# print(sub_array(a,k))
+print(sub_array(a,k))
 
 #For printing the subarray having maximum sum
 
