@@ -5,6 +5,7 @@ for i in a:
         count_neg+=1
         max_neg=max(max_neg,i)
 # del a[max_neg]
+s="The_Aryan"
 mul=1
 for i in a:
     mul*=i
