@@ -14,7 +14,7 @@ def rec(n,c):
 def rec(n):
     if(n==0):
         return
-    for i in range(3):
+    for i in range(2):
         print(i,n)
         rec(n-1)
 rec(3)
